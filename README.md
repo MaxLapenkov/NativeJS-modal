@@ -3,9 +3,9 @@ Modal window on Native JS
 
 To use this window you need 
 
-1.A modal window which is currently hidden with class .overlay
-2.buttons or button with class .more
-3.button in modal window with class .close.
+1. A modal window which is currently hidden with class .overlay
+2. buttons or button with class .more
+3. button in modal window with class .close.
 
 How this works?
 
